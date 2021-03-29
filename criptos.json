@@ -1,0 +1,25 @@
+{
+    "criptos": [
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "balance": 12.82,
+            "rateInUSD": 57748.66,
+            "URL": "https://www.bitcoin.com"
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "balance": 81.93,
+            "rateInUSD": 1803.06,
+            "URL": "https://ethereum.org/"
+        },
+        {
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "balance": 29.37,
+            "rateInUSD": 195.37,
+            "URL": "https://litecoin.com/en/"
+        }
+    ]
+}
